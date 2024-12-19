@@ -7,8 +7,8 @@
 
 
 
-#define BUZZER_PIN 2
-#define GREEN_LED_PIN 3
+#define BUZZER_PIN 22
+#define GREEN_LED_PIN 17
 
 void init_leds();
 void putoff_leds();
